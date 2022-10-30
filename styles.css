@@ -1,0 +1,16 @@
+.banner__imagen{
+    width: 100%;
+    height: 100vh;
+}
+
+
+#navbarNavAltMarkup{
+    justify-content: end;
+}
+
+.footer{
+    background-color: black;
+}
+
+
+
